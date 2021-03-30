@@ -122,15 +122,15 @@ body {
     /* set the display to flex and use the justify-content & align-items properties to center the text within the div*/
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
 
 
-    background: #222;
+    background: purple;
     background:rgba(0,0,0,0.7);
     color: #fff;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
-    font-size: 1.25em;
+    font-size: 7em;
     line-height: 1.5em;
     border-radius: 10px;
     padding: 0px 30px;
